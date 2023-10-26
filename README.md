@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Efobi-Francis/news-homepage-FEM)
-- Live Site URL: [Netlify](https://fobi-space-tourism.netlify.app/)
+- Live Site URL: [Netlify](https://fobi-news-hompage.netlify.app/)
 
 ## My process
 
