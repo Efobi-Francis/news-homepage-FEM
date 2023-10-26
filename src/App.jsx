@@ -8,9 +8,9 @@ function App() {
 
   return (
     <section className="bg-[hsl(36,100%,99%)]">
-      <main className=" px-3 text-[15px] mb-20 font-inter-regular text-[hsl(240,100%,5%)] lg:max-w-6xl lg:mx-auto">
+      <main className=" px-3 text-[15px] font-inter-regular text-[hsl(240,100%,5%)] lg:max-w-6xl lg:mx-auto">
 
-        <section className=" pt-4 lg:pt-20">
+        <section className=" pt-4 pb-20 lg:pt-20">
           <Navigation/>
           <div className=" lg:flex lg:mt-12 lg:gap-10 lg:mb-16">
             <Hero/>
