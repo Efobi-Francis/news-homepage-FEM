@@ -5,7 +5,7 @@ import Icon_menu from '../assets/images/icon-menu.svg'
 import Icon_menu_close from '../assets/images/icon-menu-close.svg'
 
 
-export default function navigation() {
+export default function Navigation() {
     const [isOpen, setIsOpen] = useState(false);
 
     const handleClickOpen = () => {

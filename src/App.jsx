@@ -1,5 +1,5 @@
-import Navigation from "./components/navigation"
-import Hero from "./components/hero"
+import Navigation from "./components/Navigation"
+import Hero from "./components/Hero"
 import Trending from "./components/Trending"
 import ArticleHighlight from "./components/ArticleHighlight"
 
